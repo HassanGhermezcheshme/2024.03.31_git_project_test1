@@ -10,3 +10,4 @@ print(f"add: {c}")
 print(f"multiply: {d}")
 
 print('somthing is added to main')
+print('new2 main')

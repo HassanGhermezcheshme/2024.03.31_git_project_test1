@@ -3,4 +3,5 @@ def my_add(a,b):
     return a+b
 
 print('new line is added')
+print('line new2')
 
